@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
                             <h6 className="text-uppercase mb-4 font-weight-bold">
-                            ZERO TO INFINITY
+                                Learnology
                             </h6>
                             <p>
                                 Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
